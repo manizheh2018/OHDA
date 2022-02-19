@@ -1,4 +1,4 @@
 This is the matlab code of OHDA.
 OHDA: Opposition based High Dimensional optimization Algorithm
 The code will be added soon.
-This version is a bit different from the original one.
+This is a bit different from the original one.
